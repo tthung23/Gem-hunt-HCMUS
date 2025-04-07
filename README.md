@@ -35,10 +35,10 @@ Usage
    python main.py
 
 4. When prompted, choose one of the options from the menu:
-   - 1) Solve using PySAT
-   - 2) Solve using Brute Force
-   - 3) Solve using Backtracking
-   - 4) Exit
+   1) Solve using PySAT
+   2) Solve using Brute Force
+   3) Solve using Backtracking
+   4) Exit
 
 5. Enter the input file path when prompted (e.g., infos/input5x5.txt).
 6. After the solution is computed, you’ll be asked to provide an output file path to save the
@@ -55,12 +55,13 @@ Author
 Tran Trong Hung
 23127374
 
-Input files
-infos/input_5x5.txt
-infos/input_11x11.txt
-infos/input_20x20.txt
+Input files:
+
+- infos/input_5x5.txt
+- infos/input_11x11.txt
+- infos/input_20x20.txt
 
 Output files
-infos/output_5x5_<Type_used>.txt
-infos/output_11x11_<Type_used>.txt
-infos/output_20x20_<Type_used>.txt
+- infos/output_5x5_<Type_used>.txt
+- infos/output_11x11_<Type_used>.txt
+- infos/output_20x20_<Type_used>.txt
