@@ -1,0 +1,12 @@
+2, T, G, 1, G
+G, 5, 4, 2, G
+3, T, G, 2, 1
+3, G, G, G, 1
+T, G, G, 2, 1
+
+Statistics:
+Number of CNF clauses: 340
+Number of Goals (G): 10
+Number of Traps (T): 3
+Number of Filled cells (G + T): 13
+Time consumed: 0.0022 seconds
